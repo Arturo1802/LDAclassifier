@@ -44,7 +44,7 @@ terminal:
 
 ## Uso
 terminal:
-    python GUI.py
+    streamlit run GUI.py
 
 ## Contribución
 
