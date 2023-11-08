@@ -28,8 +28,7 @@ Python 3.8.10
 Hardware minimum
 16 GB RAM 
 4c/8t CPU
-NVIDIA 10 series GPU / ROCm compliant GPU
-\n
+NVIDIA 10 series GPU / ROCm compliant GPU 
 Hardware Rec. 
 32GB RAM
 8c/16t CPU
