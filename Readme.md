@@ -29,7 +29,7 @@ Hardware minimum
 16 GB RAM 
 4c/8t CPU
 NVIDIA 10 series GPU / ROCm compliant GPU
-
+\n
 Hardware Rec. 
 32GB RAM
 8c/16t CPU
