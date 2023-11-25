@@ -57,7 +57,7 @@ Pull requests to this repo
 
 Arturo Bonilla
     bonibu18@gmail.com
-    Github: arturo1802
+    Github: Arturo1802
     
 ## Agradecimientos
 
